@@ -4,5 +4,11 @@
         flex-wrap: wrap;
         width: 100%;
         justify-content: space-around;
-        row-gap: 10px;
+        row-gap: 20px;
+      }
+
+.strikethroughusmanbanka{
+
+  text-decoration: line-through;
+
       }
